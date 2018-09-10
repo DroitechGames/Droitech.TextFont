@@ -8,3 +8,7 @@ https://stackoverflow.com/questions/4939255/c-sharp-how-to-change-font-of-a-labe
 # Responce:
 
 See DLL.
+
+# Features?
+
+// 28 Functions to Apply Font to Controls.
